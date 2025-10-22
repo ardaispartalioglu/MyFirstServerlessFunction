@@ -35,7 +35,7 @@ Aşağıdaki çıktı, projenin iki ana gerekliliğini kanıtlar.
   `[API_ENDPOINT]?longUrl=https://www.linkedin.com/in/yourprofile/`
 
 * **Çıktı Kanıtı (Tarayıcı/Terminal Ekran Görüntüsü):**
-  [screenshots/1_successful_output.png](screenshots/1_successful_output.png) **<- Lütfen kendi ekran görüntünüzü buraya bağlayın.**
+  [screenshots/1_successful_output.png](screenshots/1_successful_output.png)
 
 * **Örnek Çıktı:**
 ```
@@ -49,7 +49,7 @@ Aşağıdaki çıktı, projenin iki ana gerekliliğini kanıtlar.
 
 ### 2. CloudWatch Log Kayıtları Kanıtı
 
-  * **Kanıt:** [screenshots/2_cloudwatch_logs.png](https://www.google.com/search?q=screenshots/2_cloudwatch_logs.png) **<- Lütfen CloudWatch log ekran görüntünüzü buraya bağlayın.**
+  * **Kanıt:** [screenshots/2_cloudwatch_logs.png](https://www.google.com/search?q=screenshots/2_cloudwatch_logs.png)
 
 -----
 
